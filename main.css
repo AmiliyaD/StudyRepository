@@ -184,7 +184,7 @@ h1 {
 /* fifth */
 .bg-fifth {
     padding-top: 175px;
-    background: url(../img/bg.png);
+    background: url(bg.png);
     background-size: 100%, 100%;
     background-repeat: no-repeat;
     padding-bottom: 445px;
